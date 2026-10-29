@@ -1,6 +1,6 @@
 # Topic
 
-- Flutterwave Security Breaches (2023–2024): Unauthorized Transfers and Fraud-Control Failures at a Nigerian Fintech
+## Flutterwave Security Breaches (2023–2024): Unauthorized Transfers and Fraud-Control Failures at a Nigerian Fintech
 
 # Introduction
 
